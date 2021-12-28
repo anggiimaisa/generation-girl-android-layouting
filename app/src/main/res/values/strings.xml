@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="input_your_email">Input your Email</string>
+    <string name="input_your_password">Input your Password</string>
+    <string name="submitted_user">Submitted User:</string>
+    <string name="email">Email: </string>
+    <string name="password">Password:</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+</resources>
